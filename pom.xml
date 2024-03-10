@@ -8,11 +8,11 @@
         <version>3.0.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wellsfargo</groupId>
+    <groupId>com.darjyo</groupId>
     <artifactId>counselor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>wells-fargo-task-2</name>
-    <description>wells-fargo-task-2</description>
+    <name>darjyo-task-2</name>
+    <description>darjyo-task-2</description>
     <properties>
         <java.version>19</java.version>
     </properties>
